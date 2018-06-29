@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "episode_markers:install"
+    "episode_markers:setup"
   ]
 }
