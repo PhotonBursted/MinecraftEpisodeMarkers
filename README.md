@@ -12,12 +12,12 @@ Instead of everyone needing separate timers, episode markers are a way to consis
 * Starting, pausing, resuimg and resetting timer
 * Fully configurable
 * [Editable on the fly](https://github.com/PhotonBursted/MinecraftEpisodeMarkers/wiki/Editing-the-configuration)
-* Sidebar display of current episode state (`/scoreboard objectives setdisplay sidebar EM_display`)
+* Sidebar display of current episode state
 
 ## Installation
-Just like any other datapack, it is required to have a world compatible with Minecraft Java Edition, version 1.13 and above.
-
-When such a world is available:
-1. Download the latest release of the datapack
-2. Put the datapack into the `<world>/datapacks` folder, whether extracted or not
-3. In the event the datapack was placed in the folder while the world was open, run `/reload` to make Minecraft refresh the list of installed datapacks
+Installation goes like any other datapack:
+ - Download the latest ZIP from the [releases](https://github.com/PhotonBursted/MinecraftEpisodeMarkers/releases) page
+ - Go into your [local Minecraft](https://minecraft.gamepedia.com/.minecraft) saves folder
+ - Pick the save you want to put the datapack into and navigate into it
+ - Navigate into the `datapacks` folder and place your ZIP into here
+ - If the world was already opened while doing this, make sure to execute the `/reload` command or reopen your world for the changes to take effect.
