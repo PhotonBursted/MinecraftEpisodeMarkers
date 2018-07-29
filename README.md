@@ -21,3 +21,9 @@ Installation goes like any other datapack:
  - Pick the save you want to put the datapack into and navigate into it
  - Navigate into the `datapacks` folder and place your ZIP into here
  - If the world was already opened while doing this, make sure to execute the `/reload` command or reopen your world for the changes to take effect.
+
+## Usage
+ - Starting timer: `/function episode_markers:countdown/start`
+ - Stopping timer: `/function episode_markers:countdown/stop`
+
+ - Applying configuration: `/function episode_markers:config/apply` (see [here](https://github.com/PhotonBursted/MinecraftEpisodeMarkers/wiki/Editing-the-configuration) for more information)
